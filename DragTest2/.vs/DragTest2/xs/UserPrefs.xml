@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{E876886A-24CB-4DF9-A19E-F0759F5B1316}|Default">
+  <MonoDevelop.Ide.ItemProperties.DragTest2.Android PreferredExecutionTarget="Android.galaxy_s9" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DragTest2.iOS/IOSDragLabel.cs">
+    <Files>
+      <File FileName="DragTest2/MainPage.xaml" Line="3" Column="1" />
+      <File FileName="DragTest2/MainPage.xaml.cs" />
+      <File FileName="DragTest2/IDragLabel.cs" />
+      <File FileName="DragTest2.Android/AndroidDragLabel.cs" />
+      <File FileName="DragTest2.iOS/IOSDragLabel.cs" Line="68" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DragTest2" expanded="True">
+            <Node name="DragTest2" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="DragTest2.Android" expanded="True" />
+            <Node name="DragTest2.iOS" expanded="True">
+              <Node name="IOSDragLabel.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DragTest2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2B49D19A-4969-45D2-914D-5BCF49FC62CD" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
