@@ -1,2 +1,2 @@
-# DragDropTest
-In iOS everything works fine. In Android I am not able to check when the touch is inside the destination view
+# AndroidChangeFocus
+I am not able to change the TalkBack focus on a certain element after a certain event (like the click of a button).
