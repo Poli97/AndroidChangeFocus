@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{FC559C56-F291-410F-BBC0-1AA0960F2F67}|Default">
+  <MonoDevelop.Ide.ItemProperties.Androidchangefocus AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.23e46ec8990c7ece" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Androidchangefocus/MainActivity.cs">
+    <Files>
+      <File FileName="Androidchangefocus/MainActivity.cs" Line="69" Column="76" />
+      <File FileName="Androidchangefocus/Resources/layout/activity_main.xml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Androidchangefocus" expanded="True">
+            <Node name="Androidchangefocus" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
